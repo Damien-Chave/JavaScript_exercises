@@ -44,7 +44,7 @@ function setCookie(cvalue) {
 }
 
 
-document.addEventListener('Loaded', function() {
+document.addEventListener('load', function() {
 
     console.log(document.cookie);
 
